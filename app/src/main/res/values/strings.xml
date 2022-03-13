@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartKnobView</string>
+    <string name="toggle_play_pause_button">Toggle Play/Pause button</string>
+    <string name="album_cover">Album cover</string>
+</resources>
